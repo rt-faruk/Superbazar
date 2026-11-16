@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1794773343347,
+      "tag": "0000_amarbazar_storefront_schema",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1794773378350,
+      "tag": "0001_products_on_sale_order_tracking_checkout",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1794773524423,
+      "tag": "0002_seed_demo_catalogue",
+      "breakpoints": true
+    }
+  ]
+}
